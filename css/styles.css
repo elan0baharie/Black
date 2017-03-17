@@ -1,0 +1,26 @@
+img.banner_image {
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+.container {
+}
+
+.col-lg-5 {
+  background-color: lightblue;
+  float: right;
+}
+
+span.leftbar {
+  float: left;
+  height: 100%;
+  width: 15%;
+  background-color: lightgray;
+}
+
+img#lower_halls {
+  width: 100%;
+
+}
